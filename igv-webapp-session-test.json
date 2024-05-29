@@ -1,0 +1,27 @@
+{
+	"version": "2.15.11",
+	"showSampleNames": false,
+	"reference": {
+		"fastaURL": "https://itp-mango.s3-ap-southeast-2.amazonaws.com/Collaborators/Bravo/igv-webapp.2.13.5/data/alphonso/peng_wang_alphonso_genome_multifasta_renamed.fa?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAV3EUZG6CZUOHWU6W/20240529/ap-southeast-2/s3/aws4_request&X-Amz-Date=20240529T001534Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=de13bc141005c831a9d50beb56044e8bf79bca68eedea7d963ded356013d74aa",
+		"indexURL": "https://itp-mango.s3-ap-southeast-2.amazonaws.com/Collaborators/Bravo/igv-webapp.2.13.5/data/alphonso/peng_wang_alphonso_genome_multifasta_renamed.fa.fai?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAV3EUZG6CZUOHWU6W/20240529/ap-southeast-2/s3/aws4_request&X-Amz-Date=20240529T001605Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=fc95bb4facf90d264db8527647327b6af409d2ec28208a8602d75fc5721d01aa"
+	},
+	"locus": "chr7:10,306,526-10,316,595",
+	"roi": [],
+	"tracks": [
+		{
+			"type": "sequence",
+			"order": -9007199254740991
+		},
+		{
+			"url": "https://itp-mango.s3-ap-southeast-2.amazonaws.com/Collaborators/Bravo/igv-webapp.2.13.5/data/alphonso/FUR9702A226_filtered_snps.ann.vcf.gz?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAV3EUZG6CZUOHWU6W/20240529/ap-southeast-2/s3/aws4_request&X-Amz-Date=20240529T001715Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=31085255e1ced5146e06ea7b31b716e37c4d9ebb57fd6236dd5e6abe3868be87",
+			"filename": "FUR9702A226_filtered_snps.ann.vcf.gz",
+			"indexURL": "https://itp-mango.s3-ap-southeast-2.amazonaws.com/Collaborators/Bravo/igv-webapp.2.13.5/data/alphonso/FUR9702A226_filtered_snps.ann.vcf.gz.tbi?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAV3EUZG6CZUOHWU6W/20240529/ap-southeast-2/s3/aws4_request&X-Amz-Date=20240529T001735Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c49d547aad7dd5b99dbdfd1ce6408d5a80205a99d6ba6fe93546126ef7c39c4d",
+			"name": "FUR9702A226_filtered_snps.ann.vcf.gz",
+			"format": "vcf",
+			"type": "variant",
+			"visibilityWindow": 12310,
+			"color": "rgb(0,0,150)",
+			"order": 3
+		}
+	]
+}

@@ -1,5 +1,5 @@
 <div id="Pineapple_Genome_Browser" align="center">
-  <a href="https://igv.org/app/?sessionURL=blob:zZNdb5swFIb_i6VWm0TAhgADqZqSrulH2rRqRtKmqpABA27AprYJTaL897nVpt2sUnOxaZIv8JHxec_DwxasiJCUMxAC20SuiRAwgCx5N8V1U5EJrokEYY4rSQwgSE4EYSkB4RbkWCoc3V7qN0ulGhlaFlVNr8as4KZ0TFzjDWe4k2bKa.uYVxVOuMCKC2kNBV5xixarXkcS3DSm7u2YrpVhhS1cNSVnklsNYUXc6fviX6W4IIzXJK7bStG3ALHOozNmZo6_DubTQZoSKcdkfZ4dDcbng5lzEi1OveNFdH02j7z54ZQWDKtWkKOz03F9c2AP9bLvL.ZTfmCPgptl7bjf..1kvVkeON8OT14aKog8Qj7yHQTdfqDxUJaRl_9pcr3ontNj7qpM3nv1WpXJTF1eXThn46mXMxa9M_fOABVPW20DSEvhhwgaDvQM1_Z6r4_oiwHhKx3BKQgfHg2gBE6X.vjDFqh1o50Bkjy3b_oYgIuMCBD2Agh9FAS22_f7MAjQztiCVlR_D.0oug18aA9s24tzWiktdBZL1kgTM2au0twsNnuyvB4N5fSJDLnTlZHWaZY0o0acPN0t0rb7E00XagK6.dsH1KN.JNM_8e4jQUyV7CtbPlxkk.ciu14cn97TzdIfbko0c.70H0cG7wLaD07ORY2VPq8revvTuBUWFDOlCysqaUIrqtZzzZF3IES2bmWAlFdcmwhEkXyCBjSQCz__FtTZPe5.AA--">Pineapple Genome Browser</a>
+  <a href="">Pineapple Genome Browser</a>
 </div>
 <div id="Alphonso_Genome_Browser" align="center">
   <a href="">Alphonso Genome Browser</a>

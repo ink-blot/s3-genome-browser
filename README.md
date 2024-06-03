@@ -2,5 +2,5 @@
   <a href="">Pineapple Genome Browser</a>
 </div>
 <div id="Alphonso_Genome_Browser" align="center">
-  <a href="">Alphonso Genome Browser</a>
+  <a href="https://igv.org/app/?sessionURL=blob:zZJda9swFIb_i6BlA8eftV0bynCbpsuSfsxZYppSzIkt22ptyZVkp2nIf59WNnbTQXOxMdCFdDjSed9Xzxb1mAvCKAqRrVuubllIQ6Ji6xk0bY2voMEChQXUAmuI4wJzTDOMwi0qQEiYx1N1s5KyFaFhENkOGqAl04WjQwMvjMJa6BlrjDNW17BiHCTjwjjl0DODlP1gjVfQtrqa7eiukYMEA.q2YlQwo8W0TNfqvfRXKS0xZQ1Om66W5FVAqvQojblewKcomUVZhoWY4M04P4km42jhnM.XF97Zcn79OZl7yeGMlBRkx_FJPH0MTifNcPG0MB16u4yGbS.EtZh8.XrgDA_Pn1vCsTixfMt3fM_1XRUMoTl._p88q0X29P0wys.uRHxUSeigvKRZ9PItH7uL0eL4Td8e2mmoZlmnOEBZxf3QMjXH9DTX9gY_ttaxZpqBSoczgsK7ew1JDtmjar_bIrlpFS1I4KfuFRwNMZ5jjsJBYJq.FQS2e.QfmUFg7bQt6nj996IdzePAN.3Itr20ILVUKOepoK3QgVK9zwq9fNkzS_eiskfXl_CwmQ5FcAPDJWkP7JGdkVny.Ic0NaSGv36gsvoeTf.Eu_cI0eVqX9iyA_uUOuNNnt_UcXwF3WqekE0pkyq.FW8G5Cu7.4VTMN6AVP2qoo4_ieuBE6BSFXoiyIrURG4SlSNbo9CyHQUuyljNFImIl6sPpmZqlmt._A2os7vffQc-">Alphonso Genome Browser</a>
 </div>

@@ -4,3 +4,17 @@
 <div id="Alphonso_Genome_Browser" align="center">
   <a href="https://igv.org/app/?sessionURL=blob:zZJdb9owFIb_iyWqTQqJk0BCIlUT0C_6tQEKDKoqOiRO4jWxU9uEAuK_z6027aYX5WLTJEu2j47Pec_rZ48aIiTlDIXIMe2uadvIQLLgmylUdUnuoSIShRmUkhhIkIwIwhKCwj3KQCqIJrf6ZaFULUPLoqpuV8BybkrXhAp2nMFGmgmvrCEvS1hxAYoLaQ0ENNyiedPekBXUtal7u2bXSkGBBWVdcCa5VROWxxtdL_4dinPCeEXial0q.iYg1nq0xtTM4Et_Pu0nCZHyhmxH6Wn_ZtSfuefR8tIbLqOvV_PIm59Mac5ArQU5FT8m0VVxN8HXunQ0ITBiu7uL9A6Pxi337OT8paaCyFPbt33X7zmOr42hLCUv_9PMetEj576WVx6_z6OWMxDXgkRJJ2oWAs5ni0EVvTt5Dx0MVPJkrUlASSH80MaGiz2j63jt16PdMzAOtD.CUxQ.PBpICUiedPrDHqltrXlBkjyv39AxEBcpEShsBxj7dhA43Y7fwUFgH4w9Wovy75l7EU0CHzt9x_HijJZKw5zGktXSBMbMJsnMfHekm2PZtW.L6IlsyynglnMxdWeD73p_uqTe4H2SetoD3f7tE_WwH1H1T9j7iBBTrY4Frj_.Nh7L0XKx6wRnt9tqsRkWuddbbdP8XXteQTrOmoyLCpTO1xF9_UVcA4ICUzrQUElXtKRqO9cu8g0KbcfV4KKEl1yTiES..oQNbNhd_PkPoO7h8fAT">Alphonso Genome Browser</a>
 </div>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My GitHub Page</title>
+</head>
+<body>
+    <h1>Hello, GitHub Pages!</h1>
+    <script>
+        alert("This is JavaScript running on GitHub Pages!");
+    </script>
+</body>
+</html>
+

@@ -2,7 +2,7 @@
   <a href="">Pineapple Genome Browser</a>
 </div>
 <div id="Alphonso_Genome_Browser" align="center">
-  <a href="">Alphonso Genome Browser</a>
+  <a href="https://ink-blot.github.io/?sessionURL=blob:zZJra9swGIX_i6BlA8eWb0lsCMPtkqzrbW2aJm0pRrZlR6stuZJiNwn573sbNvZlhebDxkAS0osu5xw9G9RQqZjgKESOafumbSMDqYVoJ6SqS3pBKqpQmJNSUQNJmlNJeUpRuEE5UZpMr8_g5ELrWoWWxXTdqQgvhKlck1RkLThplZmKyjoWZUkSIYkWUllHkjTCYkXTaWlC6tqEt13TtzKiiUXKeiG4ElZNeRG3cF_8qxQXlIuKxtWy1GwnIAY9oDEzc_Ipmk2iNKVKndLVSTaITk.iW3c4vR93j..nl19m0.7scMIKTvRS0sGJPHCOvq_99N6rxPMNLEbNZH6cHzij1Luel.2B._lw.FIzSdXA7tl9z_F83Id4GM_oy__kHBrb0_1ZBobTbFTiIRiuXjuGivf1SvX6ydW3o3r4hv.tgUqRLoEKlC5kL7Sx4eKu4TvdzuvU7hsYB5CSFAyFD48G0pKkT7D9YYP0qgZ2kKLPyx1GBhIyoxKFnQDjnh0Eju_1PBwE9tbYoKUs_17Eo.l10MNO5DjdOGelBrCzWPFamYRzs0lzs1jvmSmEeDeHAYtxO.tXkzrz8.xiPHxa4tuLtXiTJ3h.95Vg9j2q_gmB7xFi6mRf7E7vpmeL8yhpmE_ymo8jerkC7LL.zbw5_2NAryjtF04uZEU07IcKLH8y1xDJCNdQaJhiCSuZXs0gR9Gi0HZcQBelohTAIpJF8gEb2LB9_PE3ou72cfsD">Alphonso Genome Browser</a>
 </div>
 
 

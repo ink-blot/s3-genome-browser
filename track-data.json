@@ -85,6 +85,30 @@
         "supportsWholeGenome": false,
         "displayMode": "EXPANDED",
         "height": 300
+      },
+      {
+        "name": "Annotations 2",
+        "format": "gff3",
+        "url": "https://s3.amazonaws.com/igv.org.genomes/GCA_003086295.2/GCF_003086295.2_arahy.Tifrunner.gnm1.KYV3_genomic.gff.gz",
+        "indexURL": "https://s3.amazonaws.com/igv.org.genomes/GCA_003086295.2/GCF_003086295.2_arahy.Tifrunner.gnm1.KYV3_genomic.gff.gz.tbi",
+        "removable": false,
+        "order": 1000000,
+        "visibilityWindow": -1,
+        "supportsWholeGenome": false,
+        "displayMode": "EXPANDED",
+        "height": 300
+      },
+      {
+        "name": "Annotations 3",
+        "format": "gff3",
+        "url": "https://s3.amazonaws.com/igv.org.genomes/GCA_003086295.2/GCF_003086295.2_arahy.Tifrunner.gnm1.KYV3_genomic.gff.gz",
+        "indexURL": "https://s3.amazonaws.com/igv.org.genomes/GCA_003086295.2/GCF_003086295.2_arahy.Tifrunner.gnm1.KYV3_genomic.gff.gz.tbi",
+        "removable": false,
+        "order": 1000000,
+        "visibilityWindow": -1,
+        "supportsWholeGenome": false,
+        "displayMode": "EXPANDED",
+        "height": 300
       }
     ]
   }
